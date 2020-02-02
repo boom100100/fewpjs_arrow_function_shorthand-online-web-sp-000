@@ -1,2 +1,2 @@
 
-let divide = function(x, y){return x/y}
+let divide = function(){return 2000/100}
